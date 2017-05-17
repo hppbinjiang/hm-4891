@@ -1,4 +1,7 @@
 ## Personal MIRROR
+***
+Used only for academic purposes
+***
 
 This software package is the reference software for Rec. ITU-T H.265 | ISO/IEC 23008-2 High efficiency video coding (HEVC). The reference software includes both encoder and decoder functionality.
 
